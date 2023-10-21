@@ -1,4 +1,4 @@
-#EXE2X GUI
+# EXE2X GUI
 
 Executable (.EXE) to script files converter:
 - Visual Basic (.VBS and .VBE)
